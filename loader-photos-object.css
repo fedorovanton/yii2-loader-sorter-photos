@@ -1,0 +1,27 @@
+.zone-loader-photos ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.zone-loader-photos input {
+    width: 33%;
+    cursor: move;
+    margin: 1px;
+    font-size: 20px;
+}
+
+.zone-loader-photos .img-in-zone-loader {
+    width:33%;height:200px;
+}
+
+.zone-loader-photos .first-loader-img {
+    background: transparent; margin-left: -357px;z-index: 0;
+}
+
+.opacity-img {
+    opacity: 0.5;
+}
